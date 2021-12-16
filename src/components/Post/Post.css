@@ -1,0 +1,31 @@
+.post {
+  background-color: #e8f4fd;
+  margin: 15px 0;
+  padding: 20px;
+  border-radius: 25px;
+}
+
+.post-title {
+  display: flex;
+  align-items: center;
+}
+
+.post-date {
+  font-size: 16px !important;
+  display: flex;
+  margin-left: 20px !important;
+  align-items: center;
+}
+
+.post-name {
+  font-size: 35px !important;
+}
+
+.post-top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.post-delete {
+  cursor: pointer;
+}

@@ -1,0 +1,22 @@
+.user-profile-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.user-profile-info {
+    display: flex;
+    align-items: center;
+}
+
+.user-profile-avatar {
+
+}
+
+.user-profile-avatar img {
+    max-width: 350px;
+}
+
+.user-profile-about p {
+    margin: 15px 0;
+}

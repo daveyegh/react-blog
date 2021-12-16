@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.header-logo {
+  color: #fff;
+  text-decoration: none;
+}
+
+.login {
+  text-decoration: none;
+  color: #fff;
+}
+
+.login button {
+  margin-top: 0 !important;
+}
+
+.MuiPaper-root {
+  top: 50px !important;
+  left: 88.5% !important;
+}
+
+.user-text {
+  cursor: pointer;
+}
